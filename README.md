@@ -33,4 +33,4 @@ Docs & guides: https://chatgpt-boost.softyx.xyz
 
 ## 🧾 Requirements
 - Windows (64-bit)
-- Administrator rights for install
+- Administrator rights for install 
